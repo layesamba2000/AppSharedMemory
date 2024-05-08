@@ -1,0 +1,9 @@
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe.config
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.pdb
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.exe
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.pdb

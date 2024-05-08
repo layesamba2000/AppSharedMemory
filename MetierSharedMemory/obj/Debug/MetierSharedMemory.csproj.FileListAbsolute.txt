@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll.config
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.pdb
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.dll
+C:\Users\user\OneDrive\Documents\CSharp\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.pdb
